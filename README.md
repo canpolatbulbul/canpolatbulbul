@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Can Polat Bülbül
-- 🌱 I’m currently a Senior at Ihsan Doğramacı Bilkent University Computer Science Department.
+- I’m currently a Senior at Ihsan Doğramacı Bilkent University Computer Science Department.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/canpolatbulbul) 
