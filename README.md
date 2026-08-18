@@ -1,7 +1,8 @@
-### Hello! I'm Can Polat Bülbül, a Computer Engineering student at Bilkent University. 
-- I am an undergraduate researcher at the LiRA (Learning for Intelligent Robotic Agents) Lab, focusing on reinforcement learning and procedural scene generation for robotic manipulation.
-- I am also conducting research at the University of Bamberg's Cognitive Systems Group on AI-based pronunciation training, focusing on speech processing and error detection.
-- I am broadly interested in AI, machine learning, reinforcement learning, and conversational AI.
+### Hello! I'm Can, an Artificial Intelligence Master's student at Hong Kong University of Science and Technology(HKUST). 
+
+- I am broadly interested in AI, machine learning and reinforcement learning.
+- I was an undergraduate researcher at the LiRA (Learning for Intelligent Robotic Agents) Lab, focusing on reinforcement learning and procedural scene generation for robotic manipulation.
+- I was conducting research at the University of Bamberg's Cognitive Systems Group on AI-based pronunciation training, focusing on speech processing and error detection.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/canpolatbulbul) 
